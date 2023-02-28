@@ -10,5 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/74507357/221942655-bdc77009-9e33-453b-823f-0eb68436999d.png)
 
-# Visualizar senha:
+# Visualizar senha:  
+![image](https://user-images.githubusercontent.com/74507357/221943073-f4d62f46-bc65-431a-9e86-1e5ebf748e21.png)
+
 
