@@ -69,3 +69,16 @@ body{
     cursor: pointer;
     font-weight: bold;
 }
+
+.face {
+    position: absolute;
+    top: 32%;
+    left: 15%;
+}
+
+.face h2{
+    font-size: 28px;
+    margin-right: 57%;    
+    font-weight: normal;
+    font-family: Helvetica, Arial, sans-serif;
+}
