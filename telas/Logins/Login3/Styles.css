@@ -1,1 +1,76 @@
+.boxer{
+	position:fixed;
+	top:25%;
+	left:30%;
+	right:30%;
+	bottom:40%;
+	background: #89cfff;
+	box-sizing: border-box;
+	border-radius:2%;
+	box-shadow:0px 0px 10px gray;
+}
+
+.title{
+	text-align: center;
+	text-transform:uppercase;
+	color:white;
+}
+
+
+.frame input:hover{
+	border:1px solid black;
+}
+
+.frame input {	
+	position: fixed;
+	left:35%;
+	width: 30%;
+	height: 4%;
+	border-radius:10px;
+	border:none;
+
+}
+
+#password{
+	margin-top:3%;
+}
+
+#email::placeholder{
+	font-size:10px;
+	text-align: left;
+}
+
+#password::placeholder{
+	font-size:10px;
+	text-align: left;
+}
+
+.remember{
+	position: fixed;
+	top:47%;
+	left:35%;
+	display: flex;
+ 	align-items: center;
+	font-size:10px;
+	width:3%;
+}
+
+.login{
+	font-size:10px;
+	width:10%;
+	padding: 8px;
+	position: fixed;
+	top:50%;
+	left:55%;
+	border-radius:5px;
+	border:none;
+	text-transform:uppercase;
+	font-weight: bold;
+	background:white;
+}
+
+.login:hover{
+	border:1px solid white;
+	background:#89CFF0;
+}
 
