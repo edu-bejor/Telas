@@ -1,0 +1,71 @@
+body{
+    background: #6A5ACD;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form{
+    position: relative;
+    background: white;
+    max-width: 360px;
+    border-radius: 16px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 5px 5px 30px #797979;
+}
+
+#bem-vindo{
+    font-size: 25px;
+    color: #6A5ACD;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.form input{
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    border-radius: 15px;
+    border-color: #483D8B;
+    background: white;
+    width: 100%;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.form button{
+    font-family: "Roboto";
+    text-transform: uppercase;
+    background: #483D8B;
+    width: 100%;
+    border-radius: 16px;
+    border:none;
+    padding: 15px;
+}
+
+.form button a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.form button:hover,
+.form button:active,
+.form button:focus{
+    background: #6A5ACD;
+}
+
+.form .message {
+    margin: 15px 0 0;
+    color: gray;
+    font-size: 15px;
+}
+
+.form .message a {
+    color: #6A5ACD;
+    text-decoration: none;
+}
