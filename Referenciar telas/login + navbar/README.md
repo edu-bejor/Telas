@@ -1,7 +1,7 @@
 # Aprendendo como referenciar duas telas  
 
 
-referenciei o botao para entrar na nav.html
+Referenciei o botao para entrar na nav.html
 
 # Problemas:
 - Digitando usuario, senha e depois clicando em login não vai;
